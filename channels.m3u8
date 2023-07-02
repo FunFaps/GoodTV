@@ -1,0 +1,259 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qb7Wf5F/BS.png" group-title="Местные", Белсат
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:-1 group-title="Кино 1" tvg-logo="https://s6.vcdn.biz/static/f/1386000861/image.jpg/pt/r250x250",ФАНТАСТИКА
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1,Мульт
+https://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:-1,BACKUSTV HD
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1,Film Box
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:-1,Film Box
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1,Фантастика Sci-Fi
+https://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:-1 ,Belarus 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 group-title="Кино",TV 1000
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Кино",TV 1000 Action
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Кино",TV 1000 Русское кино
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Кино",VIP Comedy
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Кино",VIP Megahit
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Кино",VIP Premiere
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Кино",ViP Serial
+http://94.229.250.73:8008/play/a003
+#EXTINF:-1 group-title="Кино" tvg-logo="amedia-1",Amedia 1
+http://31.148.48.15:80/A1/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино" tvg-logo="amedia-2-hd",Amedia 2 HD
+http://31.148.48.15/A2/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://static.g-cdn.app/streams/amedia-hit-hd.png",Amedia Hit HD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://static.g-cdn.app/streams/amedia-premium.png",Amedia Premium
+https://sc.id-tv.kz/amedia_pr_hd.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://static.g-cdn.app/streams/amedia-premium-hd.png",Amedia Premium HD
+http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино" tvg-logo="https://static.g-cdn.app/streams/bollywood.png",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Cinema Classic
+https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://static.g-cdn.app/streams/fan-hd.png",Fan HD
+http://94.230.240.17:8080/fan/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://static.g-cdn.app/streams/fox.png",FOX
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Kinoman
+http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",Trash
+http://livetv.mylifeisgood.ml/channels/trash.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://static.g-cdn.app/streams/kinopremiera-hd.png",Кинопремьера HD
+http://45.159.74.13:80/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="hd-life",HD Life
+http://31.148.48.15:80/HD_Life/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://static.g-cdn.app/streams/nat-geo-wild.png",Nat Geo Wild
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Travel
+http://91.233.215.250:7272/07pqiSOeAdHpghx
+#EXTINF:-1 group-title="Познавательные" tvg-logo="viasat-explore-hd",Viasat Explore HD
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="viasat-history-hd",Viasat History HD
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="viasat-nature-hd",Viasat Nature HD
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://static.g-cdn.app/streams/kvn-tv.png",КВН ТВ
+http://146.158.0.56/KVN/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://static.g-cdn.app/streams/ani.png",Ani
+http://31.148.48.15:80/Ani/index.m3u8?token=test
+#EXTINF:-1 ,ViasatNature
+https://sc.id-tv.kz/ViasatNature_34_35.m3u8
+#EXTINF:-1 ,ViasatHistory
+https://sc.id-tv.kz/ViasatHistory_34_35.m3u8
+#EXTINF:-1 ,ViasatExplorer
+https://sc.id-tv.kz/ViasatExplorer_34_35.m3u8
+#EXTINF:-1 ,TiJi
+https://sc.id-tv.kz/TiJi_34_35.m3u8
+#EXTINF:-1 ,RossiyaK
+https://sc.id-tv.kz/RossiyaK_34_35.m3u8
+#EXTINF:-1 ,Rossiya24
+https://sc.id-tv.kz/Rossiya24_34_35.m3u8
+#EXTINF:-1 ,RBK
+https://sc.id-tv.kz/RBK_34_35.m3u8
+#EXTINF:-1 ,Nickelodeon
+https://sc.id-tv.kz/Nickelodeon_34_35.m3u8
+#EXTINF:-1 ,NatGeoWildHD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 ,MuzTV
+https://sc.id-tv.kz/MuzTV_34_35.m3u8
+#EXTINF:-1 ,MoyaPlaneta
+https://sc.id-tv.kz/MoyaPlaneta_34_35.m3u8
+#EXTINF:-1 ,Mir
+https://sc.id-tv.kz/Mir_34_35.m3u8
+#EXTINF:-1 ,Mir24
+https://sc.id-tv.kz/Mir24_34_35.m3u8
+#EXTINF:-1 ,KHL
+https://sc.id-tv.kz/KHL_34_35.m3u8
+#EXTINF:-1 ,Euronews
+https://sc.id-tv.kz/Euronews_34_35.m3u8
+#EXTINF:-1 ,DW
+https://sc.id-tv.kz/DW_34_35.m3u8
+#EXTINF:-1 ,Avto24
+https://sc.id-tv.kz/Avto24_34_35.m3u8
+#EXTINF:-1 ,A2
+https://sc.id-tv.kz/A2_34_35.m3u8
+#EXTINF:-1 ,A1
+https://sc.id-tv.kz/A1_34_35.m3u8
+#EXTINF:-1 ,bober
+https://sc.id-tv.kz/bober_34_35.m3u8
+#EXTINF:-1 ,o
+https://sc.id-tv.kz/o_34_35.m3u8
+#EXTINF:-1 ,1 HD
+https://sc.id-tv.kz/1hd_34_35.m3u8
+#EXTINF:-1 ,Дорама
+https://sc.id-tv.kz/dorama_hd_34_35.m3u8
+#EXTINF:-1 ,Кухня ТВ HD
+https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
+#EXTINF:-1 ,Кинопремьера HD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1,Беларусь 1
+http://178.124.183.5:80/hls/M52YG9EVYD_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 2
+http://178.124.183.5:80/hls/GCKYZGGFEJ_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 3
+http://178.124.183.5:80/hls/TSNEW37RPC_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 4 Брест
+http://178.124.183.5:80/hls/CH_BELARUS4BR_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 4 Витебск
+http://178.124.183.5:80/hls/CH_BELARUS4VIT_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 4 Гомель
+http://178.124.183.5:80/hls/CH_BELARUS4GOM_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 4 Гродно
+http://178.124.183.5:80/hls/CH_BELARUS4GR_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 4 Могилев
+http://178.124.183.5:80/hls/CH_BELARUS4MOG_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 5
+http://178.124.183.5:80/hls/JRKVSUPCP8_HLS/variant.m3u8
+#EXTINF:-1,Мир
+http://178.124.183.5:80/hls/M4K3ZYBPWQ_HLS/variant.m3u8
+#EXTINF:-1,НТВ Беларусь
+http://178.124.183.5:80/hls/DYJ5GH8HOK_HLS/variant.m3u8
+#EXTINF:-1,ОНТ
+http://178.124.183.5:80/hls/NCLEFHVZGR_HLS/variant.m3u8
+#EXTINF:-1,РТР-Беларусь
+http://178.124.183.5:80/hls/7MQSYYGHFE_HLS/variant.m3u8
+#EXTINF:-1,Индийское кино
+http://178.124.183.5:80/hls/CH_INDIYATV_HLS/variant.m3u8
+#EXTINF:-1,Киномикс
+http://178.124.183.5:80/hls/VVG76MWUGX_HLS/variant.m3u8
+#EXTINF:-1,Кинопремьера HD
+http://178.124.183.5:80/hls/CH_KINOPREMERA_HLS/variant.m3u8
+#EXTINF:-1,Киносемья
+http://178.124.183.5:80/hls/FEDXG8XPOR_HLS/variant.m3u8
+#EXTINF:-1,Кинохит
+http://178.124.183.5:80/hls/HDOHSSZQCP_HLS/variant.m3u8
+#EXTINF:-1,Иллюзион
+http://178.124.183.5:80/hls/V8TRED4CZL_HLS/variant.m3u8
+#EXTINF:-1,Родное Кино
+http://178.124.183.5:80/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8
+#EXTINF:-1,ТВ-3 Беларусь
+http://178.124.183.5:80/hls/KLQQ9ECGSQ_HLS/variant.m3u8
+#EXTINF:-1,Драйв
+http://178.124.183.5:80/hls/NEZVX5TVZX_HLS/variant.m3u8
+#EXTINF:-1,НСТ
+http://178.124.183.5:80/hls/9XJGVFFAWZ_HLS/variant.m3u8
+#EXTINF:-1,Россия К
+http://178.124.183.5:80/hls/Y9GP8UFTZO_HLS/variant.m3u8
+#EXTINF:-1,Сарафан
+http://178.124.183.5:80/hls/RZEQ3BLSTY_HLS/variant.m3u8
+#EXTINF:-1,СТВ
+http://178.124.183.5:80/hls/XMC4NSRVN9_HLS/variant.m3u8
+#EXTINF:-1,Усадьба
+http://178.124.183.5:80/hls/CH_HISTORY_HLS/variant.m3u8
+#EXTINF:-1,History
+http://178.124.183.5:80/hls/4FDNBEDGFV_HLS/variant.m3u8
+#EXTINF:-1,Oхотник и Рыболов HD
+http://178.124.183.5:80/hls/CH_GALAXY_HLS/variant.m3u8
+#EXTINF:-1,GALAXY
+http://178.124.183.5:80/hls/LWWBCKZAPZ_HLS/variant.m3u8
+#EXTINF:-1,Наука
+http://178.124.183.5:80/hls/ZIVFRAFR2I_HLS/variant.m3u8
+#EXTINF:-1,Техно 24
+http://178.124.183.5:80/hls/EWEXU8FWAZ_HLS/variant.m3u8
+#EXTINF:-1,Оружие
+http://178.124.183.5:80/hls/JQQ83OBHTQ_HLS/variant.m3u8
+#EXTINF:-1,Viasat Explore
+http://178.124.183.5:80/hls/BN3FTDY3T8_HLS/variant.m3u8
+#EXTINF:-1,Мульт
+http://178.124.183.5:80/hls/5MWF7XUWZI_HLS/variant.m3u8
+#EXTINF:-1,СТС Kids
+http://178.124.183.5:80/hls/CH_CTCKIDS_HLS/variant.m3u8
+#EXTINF:-1,Детский Мир
+http://178.124.183.5:80/hls/9F67L3DGIF_HLS/variant.m3u8
+#EXTINF:-1 ,Кинопремьера (1080p)
+https://sc.id-tv.kz/Kinopremiera_hd.m3u8
+#EXTINF:-1 ,КИНОМИКС
+http://82.209.197.187:8080/udp/239.0.100.33:1234
+#EXTINF:-1 ,TB1000 Русское кино
+http://82.209.197.187:8080/udp/239.0.100.82:1234
+#EXTINF:-1 ,Моя планета
+http://82.209.197.187:8080/udp/239.0.100.83:1234
+#EXTINF:-1 ,НТВ Сериал
+http://82.209.197.187:8080/udp/239.0.100.139:1234
+#EXTINF:-1 ,TV1000
+http://82.209.197.187:8080/udp/239.0.100.141:1234
+#EXTINF:-1 ,Дом Кино
+http://82.209.197.187:8080/udp/239.0.100.148:1234
+#EXTINF:-1 ,• Русский иллюзион
+http://82.209.197.187:8080/udp/239.0.100.220:1234
+#EXTINF:-1 group-title="KINO+",КИНОСВИДАНИЕ
+http://streamer1.ruslanatv.ru/russia/kinosvidanie_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="KINO+",КИНО ТВ
+rtmp://5.182.231.251//2097
+#EXTINF:-1 group-title="KINO+",Кинопоказ
+http://185.23.80.26:8080/lb/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="KINO+",КиноСат HD
+http://185.23.80.26:8080/lb/KinoSat/index.m3u8
+#EXTINF:-1 group-title="KINO+",Viju TV1000 Р кино
+http://194.143.148.28:8080/TV1000RuKino/mpegts
+#EXTINF:-1 group-title="KINO+",Премиальное HD
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:-1 group-title="KINO+",Остросюжетное HD
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:-1 group-title="KINO+",ТВ3 r
+http://185.23.80.26:8080/lb/TV3/index.m3u8
+#EXTINF:-1 group-title="KINO+",NST Настоящее страшное ТВ
+http://185.23.80.26:8080/lb/NST/index.m3u8
+#EXTINF:-1 group-title="KINO+",FOX
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="KINO+",Amedia 1
+https://sc.id-tv.kz:443/A1.m3u8
+#EXTINF:-1 group-title="KINO+",ДОМ КИНО
+http://streamer1.ruslanatv.ru/russia/dom_kino_2023/playlist.m3u8
+#EXTINF:-1 group-title="KINO+",Р Иллюзион HD
+rtmp://5.182.231.251//2114
+#EXTINF:-1 group-title="KINO+",Комедия
+rtmp://178.159.112.198//komedija
+#EXTINF:-1 group-title="KINO+",Любимое Кино
+http://45.132.87.69:8080/nashelubimoe/index.m3u8
+#EXTINF:-1 group-title="KINO+",Кино 1 International HD
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 group-title="KINO+",РОДНОЕ КИНО
+http://31.148.48.15:80/Rodnoe_kino/index.m3u8?token=test
+#EXTINF:-1 group-title="KINO+",СТС
+http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",СТС Love
+http://31.148.48.15:80/STS_Love/index.m3u8?token=test
+#EXTINF:-1 group-title="УКРАИНА",1+1 HD
+http://91.146.94.234:10001/play/a04i
+#EXTINF:-1 group-title="УКРАИНА",2+2
+http://91.146.94.234:10001/play/a04r
+#EXTINF:-1 group-title="УКРАИНА",СТБ HD
+http://91.146.94.234:10001/play/a04l
+#EXTINF:-1 group-title="УКРАИНА",Новий канал
+http://91.146.94.234:10001/play/a04o
+#EXTINF:-1 group-title="УКРАИНА",НТН
+http://91.146.94.234:10001/play/a04t
